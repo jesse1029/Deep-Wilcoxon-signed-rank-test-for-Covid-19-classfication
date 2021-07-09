@@ -18,14 +18,6 @@ Positive CT scan:
 
 ![teaser](figures/pos.gif)
 
-### Contents:
-
-- [Overview](#overview)
-- [Prerequisites](#Prerequisites)
-- [Folder Structure](#Folder Structure)
-- [Training](#Training)
-- [Testing Inference](#Testing Inference)
-
 ---
 ### Prerequisites:
 
@@ -40,7 +32,6 @@ Positive CT scan:
 <br/>
 
 ---
-
 ### Folder Structure
 
 >```data/```             &nbsp; - &nbsp; dataset and dataloader <br/>
@@ -74,7 +65,6 @@ Optional parameters (and default values):
 <br/>
 
 ---
-
 ### Reference
 
 * [SwinTransformer](https://github.com/microsoft/Swin-Transformer)
