@@ -84,8 +84,8 @@ for _ in range(args.epoch):
             train_loss, train_pos, train_neg))
     if _ % 5 == 0:
         val_f1 = evaluation(model, val_loaders)    
-        if val_f1 > 0.9:
-            save_path = 'weight_s0.4/w_mse_epoch_' + str(_) + '_f1_' + str(round(val_f1, 4)) + '.pt'
-            torch.save(model.module.state_dict(), save_path)      
+        #if val_f1 > 0.9:
+            #save_path = 'weight_s0.4/w_mse_epoch_' + str(_) + '_f1_' + str(round(val_f1, 4)) + '.pt'
+            #torch.save(model.module.state_dict(), save_path)      
             
     #torch.save(model.module.state_dict(), 'w_mse.pt')
