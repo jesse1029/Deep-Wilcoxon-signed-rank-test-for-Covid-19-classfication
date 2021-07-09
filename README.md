@@ -28,7 +28,6 @@ Positive CT scan:
 - torchvision 0.8.2
 - albumentations 1.0.0
 
-[[back]](#contents)
 <br/>
 
 ---
@@ -43,7 +42,6 @@ Positive CT scan:
 >```test_inference.ipynb```       &nbsp; - &nbsp; inference for testing set <br/>
 >```make_example.ipynb```     &nbsp; - &nbsp;  visualization for predicted result<br/>
 
-[[back]](#contents)
 <br/>
 
 ---
@@ -61,7 +59,6 @@ Optional parameters (and default values):
 >```path```: **```covid/data```** &nbsp; - &nbsp; root path for Covid-19 dataset<br/>
 >```epoch```:  100&nbsp; - &nbsp; training epoch <br/>```train_batch```:  10&nbsp; - &nbsp;image batch size per CT scan <br/>```train_ct_batch```:  16&nbsp; - &nbsp;CT scan batch per iteration <br/>```val_batch```:  8&nbsp; - sample image size when evaluation <br/>```lr```:  0.0001&nbsp; - &nbsp; learning rate for AdamW optimizer <br/>
 
-[[back]](#contents)
 <br/>
 
 ---
