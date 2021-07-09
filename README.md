@@ -8,7 +8,7 @@
 
 The proposed method DWCC (Deep Wilcoxon signed-rank test for Covid-19 classfication) is for AI-enabled Medical Image Analysis Workshop and Covid-19 Diagnosis Competition (MIA-COV19D).
 
-### Visualization
+### Result Visualization
 
 Negative CT scan:
 
