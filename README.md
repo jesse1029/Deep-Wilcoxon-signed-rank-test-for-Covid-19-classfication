@@ -41,7 +41,7 @@ Positive CT scan:
 >```evaluation.py```            &nbsp; - &nbsp; evaluation for validation set when training <br/>
 >```train.py```      &nbsp; - &nbsp; train the proposed model <br/>
 >```test_inference.ipynb```       &nbsp; - &nbsp; inference for testing set <br/>
->```make_example.ipynb```     &nbsp; - &nbsp;  visualization<br/>
+>```make_example.ipynb```     &nbsp; - &nbsp;  visualization for predicted result<br/>
 
 [[back]](#contents)
 <br/>
