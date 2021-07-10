@@ -65,5 +65,4 @@ Optional parameters (and default values):
 ### Reference
 
 * [SwinTransformer](https://github.com/microsoft/Swin-Transformer)
-* [GradCam](https://github.com/jacobgil/pytorch-grad-cam)
 
